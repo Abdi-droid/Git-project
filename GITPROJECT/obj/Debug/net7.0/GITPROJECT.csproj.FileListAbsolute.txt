@@ -1,0 +1,14 @@
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.AssemblyInfoInputs.cache
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.AssemblyInfo.cs
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\bin\Debug\net7.0\GITPROJECT.exe
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\bin\Debug\net7.0\GITPROJECT.deps.json
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\bin\Debug\net7.0\GITPROJECT.runtimeconfig.json
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\bin\Debug\net7.0\GITPROJECT.dll
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\bin\Debug\net7.0\GITPROJECT.pdb
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.dll
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\refint\GITPROJECT.dll
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.pdb
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\GITPROJECT.genruntimeconfig.cache
+C:\Users\loyal\source\repos\GITPROJECT\GITPROJECT\obj\Debug\net7.0\ref\GITPROJECT.dll
